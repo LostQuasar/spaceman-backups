@@ -4,6 +4,7 @@ const config = require("./config.json");
 
 class Main{
     constructor(){
+        Logger.info("Loading: spaceman-backups")
         ModLoader.onPostLoad["spaceman-backups"] = this.BackupProfiles.bind(this);
     }
     
