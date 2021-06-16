@@ -2,7 +2,7 @@
 	"name": "backups",
 	"author": "spaceman",
 	"version": "1.0.0",
-	"license": "NCSA",
+	"license": "GPL",
 	"main": "main.js",
 	"dependencies": {}
 }
