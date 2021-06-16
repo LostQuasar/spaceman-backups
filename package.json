@@ -1,7 +1,7 @@
 {
 	"name": "backups",
 	"author": "spaceman",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "GPL",
 	"main": "main.js",
 	"dependencies": {}
